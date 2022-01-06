@@ -9,14 +9,17 @@ color: olive;
 }
 .flexible-container{
     display: flex;
+    margin: 100px;
+    
 }
 .half-width{
-    width: 50;
+    width: 50%;
     padding-left: 110px;
     margin-top: 100px;
+   
 }
 .half-width img{
-    width: 50%;
+    width: 100%;
 }
 .link-button{
     text-decoration: none;
@@ -58,3 +61,5 @@ background-color: turquoise;
     height: auto;
     
 }
+
+
