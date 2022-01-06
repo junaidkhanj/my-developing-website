@@ -7,7 +7,7 @@ h1{
 .olive-color{
 color: olive;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{
@@ -24,5 +24,37 @@ section{
     padding: 10px 20px;
     border-radius: 7px;
     font-weight: 700;
+    
+}
+.misson-area-title{
+    text-align: center;
+}
+.half-width p:last-child{
+    padding: 50px 0px;
+}
+.misson-area-title span{
+color:rgb(25, 207, 207)
+}
+.my-mission{
+background-color: turquoise;
+}
+.mission-container{
+    display:grid;
+    width: 80%;
+    margin: 0px auto;
+
+    grid-template-columns: repeat(3,1fr);
+     grid-gap: 20px; 
+}
+.mission-card{
+   border-radius: 8px; 
+    padding: 5px 20px;
+}
+.my-mission-area{
+    width: 100%;
+}
+.card-image{
+    width: 50%;
+    height: auto;
     
 }
