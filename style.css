@@ -61,5 +61,22 @@ background-color: turquoise;
     height: auto;
     
 }
+.dream-life{
+    text-align: center;
+}
+.my-life h1{
+color: rgb(224, 166, 197);
+}
+.my-life p{
+    background-color: rgb(223, 238, 238);
+    height: 100px;
+    width: 400px;
+    border-radius: 8%;
+    margin-top: 8%;
+    padding: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    
+}
 
 
