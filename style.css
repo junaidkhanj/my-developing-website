@@ -76,9 +76,14 @@ color: rgb(224, 166, 197);
     padding: 5%;
     padding-left: 3%;
     padding-right: 3%;  
+    box-shadow: 10px 10px 40px;
 }
-.fiest-life{
+footer p{
     text-align: center;
+    background-color: black;
+    color: white;
+    height: 100px;
+    padding-top: 5%;
 }
 
 
